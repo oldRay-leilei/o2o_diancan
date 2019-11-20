@@ -7,6 +7,8 @@
     <modules>
         <module>config_server</module>
         <module>eureka_server</module>
+        <module>zuul_server</module>
+        <module>consumer_service</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

@@ -1,7 +1,6 @@
-
 spring:
   application:
-    name: eureka-server
+    name: consumer-server
   cloud:
     config:
       uri: http://localhost:7001

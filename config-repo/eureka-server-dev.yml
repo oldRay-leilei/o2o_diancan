@@ -7,3 +7,5 @@ eureka:
     register-with-eureka: false
   instance:
     hostname: localhost
+    register-with-eureka: false
+    fetch-registry: false
